@@ -2294,7 +2294,7 @@ body.template-cover .entry-header {
 
 body.template-full-width .entry-content > *:not(.alignwide):not(.alignfull):not(.alignleft):not(.alignright):not(.is-style-wide),
 body.template-full-width [class*="__inner-container"] > *:not(.alignwide):not(.alignfull):not(.alignleft):not(.alignright):not(.is-style-wide) {
-	max-width: 120rem;
+	max-width: 213rem;
 }
 
 body.template-full-width .entry-content .alignleft,
@@ -3566,12 +3566,12 @@ figure.wp-block-table.is-style-stripes {
 /* Alignment Classes ------------------------- */
 
 .entry-content > *:not(.alignwide):not(.alignfull):not(.alignleft):not(.alignright):not(.is-style-wide) {
-	max-width: 58rem;
+	max-width: 213rem;
 	width: calc(100% - 4rem);
 }
 
 [class*="__inner-container"] > *:not(.alignwide):not(.alignfull):not(.alignleft):not(.alignright):not(.is-style-wide) {
-	max-width: 58rem;
+	max-width: 213rem;
 	width: 100%;
 }
 
